@@ -1,5 +1,5 @@
 # Autonomous-Vehicle-Object-and-Lane-Detection
-Constructed a fabric defect classification system for the textile industry utilizing image processing and machine learning techniques
+Developed an object recognition and lane detection system for autonomous driving using Convolutional Neural Networks (CNN).
 
-Used feature extraction methods, including HOG and SIFT, to capture fabric surface characteristics.
-Trained and compared Machine Learning models, including SVM and KNN, to identify and classify various types of fabric defects.
+Utilized OpenCV for real-time image and video processing.
+Trained CNN models with TensorFlow / Keras to detect vehicles, pedestrians, and lane boundaries.
